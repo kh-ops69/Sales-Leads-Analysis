@@ -1,0 +1,126 @@
+industries
+Software Development                                      244
+Financial Services                                         77
+IT Services and IT Consulting                              69
+Technology, Information and Internet                       57
+Hospitals and Health Care                                  27
+Biotechnology Research                                     24
+Staffing and Recruiting                                    23
+Information Technology & Services                          22
+Real Estate                                                19
+Computer and Network Security                              17
+Business Consulting and Services                           17
+Human Resources Services                                   15
+Medical Equipment Manufacturing                            15
+Utilities                                                  14
+Oil and Gas                                                14
+Telecommunications                                         13
+Advertising Services                                       12
+Insurance                                                  12
+Retail                                                     11
+Manufacturing                                              10
+Non-profit Organizations                                   10
+E-Learning Providers                                        9
+Appliances, Electrical, and Electronics Manufacturing       8
+Motor Vehicle Manufacturing                                 8
+Transportation, Logistics, Supply Chain and Storage         8
+Machinery Manufacturing                                     7
+Wellness and Fitness Services                               7
+Food and Beverage Services                                  7
+Semiconductor Manufacturing                                 6
+Market Research                                             6
+Hospitality                                                 6
+Pharmaceutical Manufacturing                                6
+Environmental Services                                      5
+Consumer Services                                           5
+Internet Publishing                                         5
+Education Administration Programs                           5
+Construction                                                5
+Industrial Machinery Manufacturing                          5
+Rail Transportation                                         5
+Data Infrastructure and Analytics                           5
+Research Services                                           5
+Defense and Space Manufacturing                             4
+Airlines and Aviation                                       4
+Technology, Information and Media                           4
+Packaging and Containers Manufacturing                      4
+Marketing Services                                          4
+Entertainment Providers                                     4
+Data Security Software Products                             4
+Mental Health Care                                          4
+Research                                                    3
+Retail Apparel and Fashion                                  3
+Law Practice                                                3
+Online Audio and Video Media                                3
+Services for Renewable Energy                               3
+Computer Hardware Manufacturing                             3
+Truck Transportation                                        3
+Travel Arrangements                                         3
+Mechanical Or Industrial Engineering                        3
+Food & Beverages                                            3
+Automation Machinery Manufacturing                          3
+Banking                                                     3
+Education                                                   3
+Higher Education                                            3
+Individual and Family Services                              2
+Renewable Energy Semiconductor Manufacturing                2
+Primary and Secondary Education                             2
+Professional Training and Coaching                          2
+Restaurants                                                 2
+Education Management                                        2
+Retail Luxury Goods and Jewelry                             2
+Robotics Engineering                                        2
+Spectator Sports                                            2
+Food and Beverage Manufacturing                             2
+Health, Wellness & Fitness                                  2
+Computer Networking Products                                2
+Blockchain Services                                         2
+Medical Device                                              2
+Health and Human Services                                   2
+Chemical Manufacturing                                      2
+Accounting                                                  2
+Public Policy Offices                                       2
+Legal Services                                              2
+Government Relations Services                               1
+Translation and Localization                                1
+Events Services                                             1
+Glass, Ceramics and Concrete Manufacturing                  1
+Cosmetics                                                   1
+Personal Care Product Manufacturing                         1
+Public Safety                                               1
+Mobile Gaming Apps                                          1
+Medical and Diagnostic Laboratories                         1
+Information Services                                        1
+Renewable Energy Power Generation                           1
+Social Networking Platforms                                 1
+Waste Treatment and Disposal                                1
+Wholesale                                                   1
+Biotechnology                                               1
+Solar Electric Power Generation                             1
+Renewable Energy Equipment Manufacturing                    1
+Plastics Manufacturing                                      1
+Medical Practices                                           1
+Industrial Automation                                       1
+Investment Management                                       1
+Farming                                                     1
+Fundraising                                                 1
+Venture Capital and Private Equity Principals               1
+Textile Manufacturing                                       1
+Renewables & Environment                                    1
+Semiconductors                                              1
+Strategic Management Services                               1
+Civic and Social Organizations                              1
+Electric Power Transmission, Control, and Distribution      1
+IT System Custom Software Development                       1
+Defense & Space                                             1
+Leisure, Travel & Tourism                                   1
+Aviation and Aerospace Component Manufacturing              1
+Movies and Sound Recording                                  1
+Computers and Electronics Manufacturing                     1
+Internet Marketplace Platforms                              1
+Public Health                                               1
+Computer Games                                              1
+Writing and Editing                                         1
+Professional Services                                       1
+Mining                                                      1
+Vehicle Repair and Maintenance                              1
