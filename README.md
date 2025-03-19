@@ -40,8 +40,9 @@ streamlit run app.py
 
 ## Project Structure
 ```
-├── app.py          # Main Streamlit application
-├── linkedin_data.csv  # Dataset (if applicable)
+├── streamlitConnectedAnalysis.py          # Main Streamlit application
+├── datasetAnalysis.ipynb         # Basic Preliminary Dataset Analysis
+├── B2B-business-dataset-samples-main/linkedin_data.csv  # Dataset Used
 ├── requirements.txt    # Dependencies
 ├── .gitignore        # Ignore unnecessary files (including virtual environment and .env)
 ├── README.md         # Project documentation
